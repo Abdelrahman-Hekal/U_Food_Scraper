@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "U_Food_Scraper", "U_Food_Scraper.pyproj", "{BC0C2689-04C5-441D-9D66-69BDA98EDF1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0C2689-04C5-441D-9D66-69BDA98EDF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0C2689-04C5-441D-9D66-69BDA98EDF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B85171-A412-4765-829A-8CDC075C5F6E}
+	EndGlobalSection
+EndGlobal
